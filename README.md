@@ -1,3 +1,7 @@
 # reniek2007
-proyecto de prueba para aprender Github
-Estoy aprendiendo a usar pull requests
+
+Proyecto de prueba para aprender GitHub.
+
+## Objetivo
+
+Aprender a crear issues, ramas y pull requests.
